@@ -30,6 +30,7 @@ font-style: normal;
 body {
     font-family: 'Cairo';
     font-style: normal;
+     background-color: azure;
 }
 body,h3 {
     font-family: 'Cairo';
